@@ -1,5 +1,5 @@
 # Dein-Browser-Mit-Herz
 
-Theme for Firefox at https://addons.mozilla.org/en-GB/firefox/addon/dein-browser-mit-herz/
+Theme for Firefox.
 
 Licence is Creative Commons Attribution-NonCommercial-Share Alike 3.0
